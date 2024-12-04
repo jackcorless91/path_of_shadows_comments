@@ -111,7 +111,7 @@ def castle(player):
     typewrite("\nThe voice echoes in your mind, more familiar now, almost comforting in its strangeness. \nYou feel a pulse of recognition, as though the words have stirred something deep within your memories.\n")
     time.sleep(0.5)
     
-    typewrite("Suddenly, a fragmented memory flashes before your eyes...\n")
+    —("Suddenly, a fragmented memory flashes before your eyes...\n")
     time.sleep(1)
 
     # Flashback memory
