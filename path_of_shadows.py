@@ -28,7 +28,7 @@ def path_of_shadows(player):
     """
     Purpose: This function handles the players experience along the path of shadows
     
-    parameters: player (object), defines the area the player is in. currently path of shadows 
+    parameters: player (object), handles attributes like players state, health points current inventory and any saved progress. currently path of shadows 
     
     Returns: moves to ending() if player is defeated, if not player is continued onto third_enemy(player)
     """
