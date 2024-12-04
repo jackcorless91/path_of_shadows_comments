@@ -6,6 +6,7 @@ import json
 # imports json module, this allows the game the save progress in json format that can be loaded on command
 
 import time
+# imports time module, used to pause for a specified amount of time
 
 from typewrite import typewrite
 # Imports the function 'typewriter', when called give a typewriter affect when printing text in the terminal
